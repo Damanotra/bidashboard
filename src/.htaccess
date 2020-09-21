@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^file_manager/fm_ckeditor.html - [L]
+RewriteRule ^file_manager/fm_tinymce.html - [L]
+RewriteRule login.html http://localhost/altair/altair/admin/html/src/login.php [L]
+RewriteRule error_404.html http://localhost/altair/altair/admin/html/src/error_404.php [L]
+RewriteRule error_500.html http://localhost/altair/altair/admin/html/src/error_500.php [L]
+RewriteRule ^(.*).html$ http://localhost/altair/altair/admin/html/src/index.php?page=$1 [NC,L]

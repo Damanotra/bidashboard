@@ -1,0 +1,242 @@
+[
+    {
+        "Order Date": "2014-01-02",
+        "Sales": 14238,
+        "Profit": 2446
+    },
+    {
+        "Order Date": "2014-02-02",
+        "Sales": 4518,
+        "Profit": 859
+    },
+    {
+        "Order Date": "2014-03-02",
+        "Sales": 55689,
+        "Profit": 495
+    },
+    {
+        "Order Date": "2014-04-02",
+        "Sales": 28294,
+        "Profit": 3490
+    },
+    {
+        "Order Date": "2014-05-02",
+        "Sales": 23648,
+        "Profit": 2736
+    },
+    {
+        "Order Date": "2014-06-02",
+        "Sales": 34598,
+        "Profit": 4975
+    },
+    {
+        "Order Date": "2014-07-02",
+        "Sales": 33948,
+        "Profit": -840
+    },
+    {
+        "Order Date": "2014-08-02",
+        "Sales": 27908,
+        "Profit": 5319
+    },
+    {
+        "Order Date": "2014-09-02",
+        "Sales": 81787,
+        "Profit": 8314
+    },
+    {
+        "Order Date": "2014-10-02",
+        "Sales": 31448,
+        "Profit": 3446
+    },
+    {
+        "Order Date": "2014-11-02",
+        "Sales": 78634,
+        "Profit": 9292
+    },
+    {
+        "Order Date": "2014-12-02",
+        "Sales": 69545,
+        "Profit": 8988
+    },
+    {
+        "Order Date": "2015-01-02",
+        "Sales": 18172,
+        "Profit": -3277
+    },
+    {
+        "Order Date": "2015-02-02",
+        "Sales": 11954,
+        "Profit": 2814
+    },
+    {
+        "Order Date": "2015-03-02",
+        "Sales": 38732,
+        "Profit": 9734
+    },
+    {
+        "Order Date": "2015-04-02",
+        "Sales": 34198,
+        "Profit": 4187
+    },
+    {
+        "Order Date": "2015-05-02",
+        "Sales": 30137,
+        "Profit": 4670
+    },
+    {
+        "Order Date": "2015-06-02",
+        "Sales": 24800,
+        "Profit": 3334
+    },
+    {
+        "Order Date": "2015-07-02",
+        "Sales": 28765,
+        "Profit": 3286
+    },
+    {
+        "Order Date": "2015-08-02",
+        "Sales": 36899,
+        "Profit": 5355
+    },
+    {
+        "Order Date": "2015-09-02",
+        "Sales": 64601,
+        "Profit": 8207
+    },
+    {
+        "Order Date": "2015-10-02",
+        "Sales": 31406,
+        "Profit": 2815
+    },
+    {
+        "Order Date": "2015-11-02",
+        "Sales": 75979,
+        "Profit": 12471
+    },
+    {
+        "Order Date": "2015-12-02",
+        "Sales": 74917,
+        "Profit": 8010
+    },
+    {
+        "Order Date": "2016-01-02",
+        "Sales": 18548,
+        "Profit": 2824
+    },
+    {
+        "Order Date": "2016-02-02",
+        "Sales": 22979,
+        "Profit": 5008
+    },
+    {
+        "Order Date": "2016-03-02",
+        "Sales": 51716,
+        "Profit": 3616
+    },
+    {
+        "Order Date": "2016-04-02",
+        "Sales": 38757,
+        "Profit": 2979
+    },
+    {
+        "Order Date": "2016-05-02",
+        "Sales": 56992,
+        "Profit": 8651
+    },
+    {
+        "Order Date": "2016-06-02",
+        "Sales": 40353,
+        "Profit": 4752
+    },
+    {
+        "Order Date": "2016-07-02",
+        "Sales": 39262,
+        "Profit": 4435
+    },
+    {
+        "Order Date": "2016-08-02",
+        "Sales": 31119,
+        "Profit": 2064
+    },
+    {
+        "Order Date": "2016-09-02",
+        "Sales": 73415,
+        "Profit": 9325
+    },
+    {
+        "Order Date": "2016-10-02",
+        "Sales": 59692,
+        "Profit": 16241
+    },
+    {
+        "Order Date": "2016-11-02",
+        "Sales": 79413,
+        "Profit": 4003
+    },
+    {
+        "Order Date": "2016-12-02",
+        "Sales": 97009,
+        "Profit": 17892
+    },
+    {
+        "Order Date": "2017-01-02",
+        "Sales": 43976,
+        "Profit": 7137
+    },
+    {
+        "Order Date": "2017-02-02",
+        "Sales": 20306,
+        "Profit": 1612
+    },
+    {
+        "Order Date": "2017-03-02",
+        "Sales": 58880,
+        "Profit": 14758
+    },
+    {
+        "Order Date": "2017-04-02",
+        "Sales": 36526,
+        "Profit": 934
+    },
+    {
+        "Order Date": "2017-05-02",
+        "Sales": 44258,
+        "Profit": 6342
+    },
+    {
+        "Order Date": "2017-06-02",
+        "Sales": 52982,
+        "Profit": 8226
+    },
+    {
+        "Order Date": "2017-07-02",
+        "Sales": 45267,
+        "Profit": 6951
+    },
+    {
+        "Order Date": "2017-08-02",
+        "Sales": 63131,
+        "Profit": 9034
+    },
+    {
+        "Order Date": "2017-09-02",
+        "Sales": 87886,
+        "Profit": 10987
+    },
+    {
+        "Order Date": "2017-10-02",
+        "Sales": 77786,
+        "Profit": 9272
+    },
+    {
+        "Order Date": "2017-11-02",
+        "Sales": 118456,
+        "Profit": 9691
+    },
+    {
+        "Order Date": "2017-12-02",
+        "Sales": 83830,
+        "Profit": 8487
+    }
+]
